@@ -1,6 +1,6 @@
 # jw409
 
-[![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)](https://github.com/google-gemini/gemini-cli)
+[![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://github.com/google-gemini/gemini-cli)
 
 ## About Me
 Full-stack developer specializing in GPU-accelerated systems, local AI inference, and distributed computing.
